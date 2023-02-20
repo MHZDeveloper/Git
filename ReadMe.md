@@ -2,6 +2,8 @@
 
 Here's a little warm up.
 
+You will find the slides [here](https://docs.google.com/presentation/d/1tPQJ_aqAzjxRF3fahHcag87W768Hd3sO9zoOqq_7Q60/edit?usp=sharing)
+
 Create​ ​ a ​ ​ Git​ ​ repository​ ​ with​ ​ the​ ​ commits​ ​ shown​ ​ in​ ​ the​ ​ commit​ ​ graph​ ​ and​ ​ table​ ​ below.​ ​ 
 This simulates​ ​ a ​ ​ team​ ​ building​ ​ and​ ​ releasing​ ​ a ​ ​ product​ ​ using​ ​ the​ ​ Gitflow​ ​ workflow.
 
